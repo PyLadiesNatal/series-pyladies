@@ -18,8 +18,8 @@
 
 2. Baixe o projeto
     ```sh
-    $ git clone http://git@github.com/pyladiesnatal/series-flask
-    $ cd series-flask
+    $ git clone http://git@github.com/pyladiesnatal/series-pyladies
+    $ cd series-pyladies
     $ pip install -r requirements.txt
     $ python app.py
     ```
